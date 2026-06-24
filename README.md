@@ -56,6 +56,9 @@ MediConnect addresses the severe healthcare crisis where a majority of doctors a
 The high-fidelity **Figma UI/UX prototype** is designed using a clean, accessible design token system:
 * **Brand Colors:** Primary Green (`#1D9E75`), Dark Green (`#0F6E56`), Mint Green (`#E1F5EE`), Light Gray Background (`#F5F5F5`).
 
+**View the interactive Figma prototype:**  
+🔗 [https://www.figma.com/make/Uhf3wRNHtAMrhVrqqhFsOX/MediConnect?fullscreen=1&t=8Ofd1ikmGBsGZNUL-1&code-node-id=0-9]
+
 ### User Flow Roadmap
 1. **Splash / Welcome:** Entry landing page redirecting users to Log In or Register.
 2. **Patient Registration:** Multi-step signup form featuring Sierra Leone regional dropdowns.
