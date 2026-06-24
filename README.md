@@ -6,7 +6,7 @@ A digital health platform connecting rural patients with qualified doctors - SDG
 ---
 
 ## 👥 Academic Project Team Info
-
+BSEM1203F_GROUP4
 | Full Name | University ID Number | Role / Contribution |
 | :--- | :--- | :--- |
 | **Berick Borbordeen Ajuno_Sesay** | 905005872 | Project Lead / UI Designer |
