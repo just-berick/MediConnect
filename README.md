@@ -6,11 +6,11 @@ A digital health platform connecting rural patients with qualified doctors - SDG
 ---
 
 ## 👥 Academic Project Team Info
-BSEM1203F_GROUP4
+BSEM1203F_GROUP4_SEM2
 | Full Name | University ID Number | Role / Contribution |
 | :--- | :--- | :--- |
 | **Berick Borbordeen Ajuno_Sesay** | 905005872 | Project Lead / UI Designer |
-| **Amadu Borbor Bah** | 905005866| Frontend Developer |
+| **Amadu Borboh Bah** | 905005866| Frontend Developer |
 | **Lennard Ben Kanu** | 905005868 | Systems Analyst |
 
 * **Course:** PROG 102 — Principles of Software Engineering (2026)
