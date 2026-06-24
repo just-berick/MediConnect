@@ -5,7 +5,7 @@ A digital health platform connecting rural patients with qualified doctors - SDG
 
 ---
 
-## 👥 Academic Project Team Info
+## 👥 Academic Project Team Information
 BSEM1203F_GROUP4_SEM2
 | Full Name | University ID Number | Role / Contribution |
 | :--- | :--- | :--- |
